@@ -59,10 +59,6 @@ The project is organized as follows:
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. Ensure your contributions align with the project's coding standards and conventions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 We appreciate the support and resources from the open-source community that have contributed to the development of this project.
