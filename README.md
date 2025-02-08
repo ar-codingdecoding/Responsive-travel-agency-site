@@ -43,13 +43,15 @@ The project is organized as follows:
 
 1. **Clone the Repository**:
 
-git clone https://github.com/ar-codingdecoding/Responsive-travel-agency-site.git
-  
+   ```bash
+   git clone https://github.com/ar-codingdecoding/Responsive-travel-agency-site.git
+   ```
 
 2. **Navigate to the Project Directory**:
 
-cd Responsive-travel-agency-site
-   
+   ```bash
+   cd Responsive-travel-agency-site
+   ```
 
 3. **Open `index.html` in Your Preferred Web Browser**.
 
@@ -57,6 +59,9 @@ cd Responsive-travel-agency-site
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. Ensure your contributions align with the project's coding standards and conventions.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
